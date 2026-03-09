@@ -1,6 +1,6 @@
 # Embedded-Practice
 
-MCU 기반 임베디드 시스템 기초 실습 및 제어 프로젝트 기록
+STM32 MCU 기초 실습 및 제어 프로젝트 기록
 
 ## 학습 내용
 - GPIO 제어
