@@ -1,0 +1,19 @@
+# STM32 build files
+Debug/
+Release/
+*.elf
+*.list
+*.map
+*.o
+*.d
+*.su
+*.cyclomatic
+*.hex
+*.bin
+
+# OS & IDE files
+*.launch
+*.user
+.metadata/
+.DS_Store
+Thumbs.db
